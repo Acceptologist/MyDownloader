@@ -3,7 +3,7 @@
 1) Files<br/><br/>
 ![](Images/Download_File.png)
 <br/><br/>
-2) YouTube videos with any quality<br/><br/>
+2) YouTube videoes with any quality<br/><br/>
 ![](Images/YoutubeVideo.png)
   <br/><br/>
 3) YouTube Playlists with any quality<br/><br/>
